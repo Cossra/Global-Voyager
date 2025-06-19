@@ -1,8 +1,7 @@
 # Global Explorer
 
-[![Release](https://img.shields.io/github/v/release/robertcoss/global-explorer?style=flat-square)](https://github.com/robertcoss/global-explorer/releases)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)](https://github.com/robertcoss/global-explorer/blob/main/package.json#L3)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-
 
 > A professional-grade Node.js/Express application to track and visualize visited countries on an interactive map.
 
