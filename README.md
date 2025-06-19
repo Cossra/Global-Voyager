@@ -1,6 +1,6 @@
 # Global Explorer
 
-[![Version](https://img.shields.io/github/package-json/v/robertcoss/global-explorer?style=flat-square)](https://github.com/robertcoss/global-explorer)
+[![Release](https://img.shields.io/github/v/release/robertcoss/global-explorer?style=flat-square)](https://github.com/robertcoss/global-explorer/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 
